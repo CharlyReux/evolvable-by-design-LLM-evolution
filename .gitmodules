@@ -1,0 +1,6 @@
+[submodule "case-study-client"]
+	path = case-study-client
+	url = git@github.com:CharlyReux/case-study-client.git
+[submodule "case-study-server"]
+	path = case-study-server
+	url = git@github.com:CharlyReux/case-study-server.git
