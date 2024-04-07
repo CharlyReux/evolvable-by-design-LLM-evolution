@@ -4,3 +4,6 @@
 [submodule "case-study-server"]
 	path = case-study-server
 	url = git@github.com:CharlyReux/case-study-server.git
+[submodule "api-evolutions"]
+	path = api-evolutions
+	url = git@github.com:CharlyReux/api-evolutions.git
