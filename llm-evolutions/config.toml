@@ -1,0 +1,6 @@
+backend-path = "../case-study-server"
+frontend-path = "../case-study-client"
+
+
+ollama-url = "http://localhost:11434"
+ollama-model = "gemma:2b"
